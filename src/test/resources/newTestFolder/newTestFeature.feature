@@ -1,3 +1,2 @@
-@ST_835171762
+@ST_24
 Feature: newTestFeature
-
